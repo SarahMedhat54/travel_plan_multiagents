@@ -1,0 +1,6 @@
+.env
+venv/
+__pycache__/
+*.pyc
+trip_budget.xlsx
+trip_plan.md
